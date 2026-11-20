@@ -41,12 +41,17 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
+| **[Lume Salon](https://github.com/infoburmalmind-cyber/lume-salon)** | React 19, Vite, Tailwind CSS 4, Framer Motion | Interactive beauty salon SPA with booking flow, animations, services catalog, and payment card UI |
 | **OmniDrive** *(Private)* | Flutter, Dart, Django, pgvector | Cross-platform cloud workspace (Android & Windows) with RU/KY localization, semantic search, and AI Studio |
 | **KeyFlowMacro** *(Private)* | TypeScript, React, Electron, Express, SQLite | Desktop macro automation client with stealth mode, hotkeys, and JWT license server |
 
 ---
 
 ### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoburmalmind-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=infoburmalmind-cyber&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
