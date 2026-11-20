@@ -37,20 +37,16 @@
 
 ---
 
-### Featured Project
+### Featured Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[OmniDrive](https://github.com/infoburmalmind-cyber/omnidrive)** | Flutter, Dart, Django, pgvector | Cross-platform client (Android & Windows) with RU/KY localization, file workspace, semantic search, and AI Studio |
+| **OmniDrive** *(Private)* | Flutter, Dart, Django, pgvector | Cross-platform cloud workspace (Android & Windows) with RU/KY localization, semantic search, and AI Studio |
+| **KeyFlowMacro** *(Private)* | TypeScript, React, Electron, Express, SQLite | Desktop macro automation client with stealth mode, hotkeys, and JWT license server |
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infoburmalmind-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoburmalmind-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Top Languages" />
-</p>
+### GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=infoburmalmind-cyber&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -62,7 +58,7 @@
 
 <p>
   <a href="mailto:infoburmalmind@gmail.com">
-    <img src="https://img.shields.io/badge/Email-infoburmalmind%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-infoburmalmind%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=0d1117" alt="Email" />
   </a>
 </p>
 
