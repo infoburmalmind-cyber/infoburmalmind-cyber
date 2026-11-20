@@ -1,72 +1,104 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=header&text=infoburmalmind-cyber&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=16" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12081d,35:4a1236,70:b5336a,100:ffd166&height=200&section=header&text=DOJYAAA~~N!&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=infoburmalmind-cyber%20%E2%80%A2%2023rd%20President%20of%20Code&descAlignY=62&descSize=17&descColor=ffe699" width="100%" alt="Valentine Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=620&lines=Frontend+Developer+%E2%80%A2+React+%26+TypeScript;Building+modern+web+interfaces;Exploring+Flutter+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=F6C177&center=true&vCenter=true&width=750&lines=Dojyaaa~~n!+Welcome+to+my+dimension.;%22The+one+who+takes+the+first+napkin+determines+all.%22;Stand:+Dirty+Deeds+Done+Dirt+Cheap+[D4C];Frontend+Specialist+%E2%80%A2+React+%26+TypeScript;My+heart+and+actions+are+utterly+unclouded." alt="Typing SVG" />
 </p>
 
-### About Me
-
-- Frontend developer focused on **JavaScript, TypeScript, and React** — SPAs, responsive layouts, state management, and REST APIs.
-- Currently learning **Flutter / Dart** (Android & Windows) and **Python** basics.
-- Working on **[OmniDrive](https://github.com/infoburmalmind-cyber/omnidrive)** — a cross-platform cloud workspace with semantic search and AI tools.
-
----
-
-### Tech Stack
-
-#### Core Frontend (Advanced)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-</p>
-
-#### Exploring (Beginner)
-<p>
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Stand-D4C_%5BDirty_Deeds_Done_Dirt_Cheap%5D-c94b7e?style=for-the-badge&logoColor=ffffff&labelColor=160926" alt="Stand D4C" />
+  <img src="https://img.shields.io/badge/Ability-Love_Train-ffd700?style=for-the-badge&logoColor=160926&labelColor=160926" alt="Love Train" />
+  <img src="https://img.shields.io/badge/Dimension-Frontend_%26_Beyond-9b5de5?style=for-the-badge&logoColor=ffffff&labelColor=160926" alt="Dimension" />
 </p>
 
 ---
 
-### Featured Projects
+### 🇺🇸 The First Napkin Principle
 
-| Project | Stack | Highlights |
+> *"Suppose that you were sitting down at this table. The napkins are in front of you: which napkin would you take? The one on your 'left'? Or the one on your 'right'?"*
+>
+> *"In this world, only one can decide the order of all things. The one who takes the first napkin determines the rules. In development, I take the first napkin: architecture, clean code, and zero-compromise precision."*
+>
+> — **Funny Valentine** (`JoJo's Bizarre Adventure: Steel Ball Run`)
+
+---
+
+### ⚡ Stand Parameters • Dirty Deeds Done Dirt Cheap [ D4C ]
+
+<div align="center">
+
+| Parameter | Rank | Description / Engineering Translation |
+|:---:|:---:|:---|
+| **Destructive Power** | **A** | Crushing bottlenecks with high-performance SPAs & optimal state management |
+| **Speed** | **A** | Blazing-fast Vite builds, instant Hot Module Reload, 60 FPS Framer Motion |
+| **Range** | **B** | Cross-platform reach across Web, Mobile (Flutter), and Desktop (Electron/Windows) |
+| **Durability** | **A** | TypeScript Strict Mode, full test suites, robust architecture |
+| **Precision** | **A** | Pixel-perfect layouts, responsive design, elegant color harmony |
+| **Development Potential** | **A** | Infinite dimensional hopping into new tech (React 19, Dart, Python, C++) |
+
+</div>
+
+---
+
+### 🔮 Dimensional Arsenal (Tech Stack)
+
+#### Primary Universe (Core Mastery)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1a0a24?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1a0a24?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React_19-1a0a24?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1a0a24?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-1a0a24?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1a0a24?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-1a0a24?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-1a0a24?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+#### Parallel Universes (Actively Exploring)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-1a0a24?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-1a0a24?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-1a0a24?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-1a0a24?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+</p>
+
+---
+
+### 🏆 Featured Artifacts & Projects
+
+| Dimension / Project | Technical Stack | Highlights & Stand Ability |
 |---|---|---|
-| **[Lume Salon](https://github.com/infoburmalmind-cyber/lume-salon)** | React 19, Vite, Tailwind CSS 4, Framer Motion | Interactive beauty salon SPA with booking flow, animations, services catalog, and payment card UI |
-| **OmniDrive** *(Private)* | Flutter, Dart, Django, pgvector | Cross-platform cloud workspace (Android & Windows) with RU/KY localization, semantic search, and AI Studio |
-| **KeyFlowMacro** *(Private)* | TypeScript, React, Electron, Express, SQLite | Desktop macro automation client with stealth mode, hotkeys, and JWT license server |
+| 🌸 **[Lume Salon](https://github.com/infoburmalmind-cyber/lume-salon)** *(Public)* | React 19, Vite, Tailwind CSS 4, Framer Motion | High-end SPA with appointment booking, silky fluid animations, service catalog, and interactive card UI |
+| 🌌 **OmniDrive** *(Private)* | Flutter, Dart, Django, PostgreSQL, pgvector | Multi-platform cloud workspace (Android & Windows) featuring semantic vector search, multilingual UI, and AI Studio |
+| 🛡️ **KeyFlowMacro** *(Private)* | TypeScript, React, Electron, Express, SQLite | Native automation core with stealth keystroke engine, global hotkeys, and cryptographically verified licensing |
 
 ---
 
-### GitHub Activity
+### 📊 Interdimensional Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoburmalmind-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=infoburmalmind-cyber&show_icons=true&title_color=f778ba&icon_color=ffd700&text_color=e0cfe6&bg_color=0e0717&border_color=b5336a" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=infoburmalmind-cyber&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoburmalmind-cyber&layout=compact&title_color=f778ba&text_color=e0cfe6&bg_color=0e0717&border_color=b5336a" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=infoburmalmind-cyber&background=0E0717&border=B5336A&stroke=B5336A&ring=FFD700&fire=FFD700&currStreakLabel=F778BA&sideLabels=E0CFE6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E86A8" alt="GitHub Streak" />
 </p>
 
 ---
 
-### Connect
+### ✉️ Summon to My Universe
 
-<p>
+<p align="center">
   <a href="mailto:infoburmalmind@gmail.com">
-    <img src="https://img.shields.io/badge/Email-infoburmalmind%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Direct_Channel-infoburmalmind%40gmail.com-b5336a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=160926" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12081d,35:4a1236,70:b5336a,100:ffd166&height=110&section=footer" width="100%" alt="Valentine Footer" />
 </p>
